@@ -30,3 +30,6 @@ Dados extraídos do Comex Stat, unificados em uma pasta do google drive, depois 
 1° DASHBOARD
 
 <img width="1310" height="738" alt="image" src="https://github.com/user-attachments/assets/0ab7853a-9b17-4ad3-aa1d-c692ec28b1d7" />
+
+
+
