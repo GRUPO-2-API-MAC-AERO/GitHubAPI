@@ -47,13 +47,6 @@ PLANO DE AÇÃO(5W2H)
 
 # 2ª SPRINT
 
-BACKLOG COMPLETO
-
-[backlog.xlsx](https://github.com/user-attachments/files/23110892/backlog.xlsx)
-[backlog. 1.xlsx](https://github.com/user-attachments/files/23110950/backlog.1.xlsx)
-
-
-
 FILTRAGEM DE DADOS COMPLETA
 
 [Dados completos.xlsm](https://github.com/user-attachments/files/23110984/Dados.completos.xlsm)
