@@ -1,5 +1,11 @@
 # 1ª SPRINT
 
+BACKLOG PARCIAL
+
+[BACKLOG.docx](https://github.com/user-attachments/files/23110853/BACKLOG.docx)
+
+
+
 MAPA MENTAL
 
 <img width="561" height="660" alt="image" src="https://github.com/user-attachments/assets/676af997-9311-4ccf-bc20-e63da85e5c23" />
@@ -18,7 +24,7 @@ DIAGRAMA DE GANTT(CRONOGRAMA)
 
 
 
-FILTRAGEM DE DADOS PELO COLLAB(PHYTON)
+FILTRAGEM DE DADOS PARCIAL PELO COLLAB(PHYTON)
 
 <img width="928" height="642" alt="image" src="https://github.com/user-attachments/assets/877e4477-abbd-4335-b011-41cd7c86d327" />
 
@@ -31,5 +37,27 @@ Dados extraídos do Comex Stat, unificados em uma pasta do google drive, depois 
 
 <img width="1310" height="738" alt="image" src="https://github.com/user-attachments/assets/0ab7853a-9b17-4ad3-aa1d-c692ec28b1d7" />
 
+
+
+PLANO DE AÇÃO(5W2H)
+
+<img width="1796" height="558" alt="image" src="https://github.com/user-attachments/assets/b51679d2-07fd-4ba1-890f-305e10c1f9a6" />
+
+
+
+# 2ª SPRINT
+
+BACKLOG COMPLETO
+
+[backlog.xlsx](https://github.com/user-attachments/files/23110892/backlog.xlsx)
+[backlog. 1.xlsx](https://github.com/user-attachments/files/23110950/backlog.1.xlsx)
+
+
+
+FILTRAGEM DE DADOS COMPLETA
+
+[Dados completos.xlsm](https://github.com/user-attachments/files/23110984/Dados.completos.xlsm)
+
+Foram adicionados todos códigos SH4 relacionados a nossa cadeia produtiva, para uma demonstração completa no nosso dashboard.
 
 
