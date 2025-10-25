@@ -25,9 +25,9 @@ DIAGRAMA DE GANTT(CRONOGRAMA)
 
 
 FILTRAGEM DE DADOS PARCIAL PELO COLLAB(PHYTON)
-Exportação - 
+# Exportação - 
 https://colab.research.google.com/github/abstrusoo/Fonte_dados/blob/main/Exporta%C3%A7%C3%A3o.ipynb
-Importação -
+# Importação -
 https://colab.research.google.com/drive/1awN2JmfMczeQ3uzI8fT5TLHpRoI25zMz?usp=sharing
 
 <img width="815" height="732" alt="P_Exp" src="https://github.com/user-attachments/assets/6b8779b0-99a0-41f4-96af-8d0a8a754c28" />
