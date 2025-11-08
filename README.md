@@ -1,11 +1,5 @@
 # 1ª SPRINT
 
-BACKLOG PARCIAL
-
-[BACKLOG.docx](https://github.com/user-attachments/files/23110853/BACKLOG.docx)
-
-
-
 MAPA MENTAL
 
 <img width="561" height="660" alt="image" src="https://github.com/user-attachments/assets/676af997-9311-4ccf-bc20-e63da85e5c23" />
@@ -40,7 +34,6 @@ https://colab.research.google.com/drive/1awN2JmfMczeQ3uzI8fT5TLHpRoI25zMz?usp=sh
 
 
 Dados extraídos do Comex Stat, unificados em uma pasta do google drive, depois foi exportado para o Google Collab. Foi usado a linguagem Python e a biblioteca Pandas para realizar a filtragem de dados de acordo com o SH4 e as cidades do vale do paraíba, salvando em duas planilhas, uma para exportação e outra para importação.
-[Dados Exportação e Importação.xlsm](https://github.com/user-attachments/files/23110682/Dados.Exportacao.e.Importacao.xlsm)
 
 
 
