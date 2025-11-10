@@ -62,6 +62,14 @@ USER STORY
 
 DashBoard
 
+Importação
+https://github.com/user-attachments/assets/41d6de54-f284-4bb3-8045-a467021ac4fe
+
+Exportação
+https://github.com/user-attachments/assets/00532fe3-29ed-4714-bab1-e7da8c06f2fe
+
+
+
 
 
 
