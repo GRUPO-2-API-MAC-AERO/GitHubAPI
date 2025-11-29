@@ -1,6 +1,6 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API) - MAC AERO
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+Mapeamento do ecossistema industrial do setor aeronáutico. 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -29,22 +29,21 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
+Este projeto tem como objetivo demonstrar de forma sucinta os dados do comércio exterior da indústria aeronáutica, visando:
+* Apresentar dados reais do ComexStat;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
+* Facilitar o entendimento e a análise;
 * Desenvolver habilidades técnicas.
 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-* Power BI
+* Google Colab (Python)
 * Microsoft Excel
-* Slack
-* Python (Colab)
-* Mysql
+* Google Drive
+* Power BI
+* Canva
 
 
 
@@ -52,11 +51,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Média       | Na qualidade de cliente, solicito a entrega de uma autoavaliação referente aos dados fornecidos, incluindo perguntas e questionamentos que expliquem os motivos pelos quais os resultados foram alcançados. Essa avaliação deve contribuir para a compreensão crítica e fundamentada dos dados apresentados.                                                    | 6H         | 3      |
+| 2    | Alta       | Na qualidade de cliente, solicito a entrega final do dashboard contendo os dados apresentados de maneira clara e visual, de forma a atender plenamente aos requisitos estabelecidos ao longo do projeto e contribuir para a adequada compreensão das informações.                                                                 | 4h         | 3      |
+| 3    | Alta       | Na qualidade de cliente, solicito a finalização e entrega do repositório no GitHub contendo todas as informações necessárias adquiridas ao longo do desenvolvimento do projeto.                                               | 4H         | 3      |
+| ...  | Alta      | Na qualidade de cliente, solicito que seja realizada a entrega do relatório final do projeto, de forma completa e clara, contemplando todas as etapas, análises e resultados obtidos. O documento deve apresentar as informações de maneira organizada e de fácil compreensão, de modo a garantir total transparência e facilitar a avaliação dos dados apresentados.    | 10H        | 3      |
 
 
 
@@ -67,8 +65,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 10/10/2025 | feito  | [MVP](MVP/sp1.md)  |
+| 02                | 10/11/2025 | feito  | [MVP](MVP/sp2.md)  |
+| 03                | 24/11/2025 | feito  | [MVP](MVP/sp3.md)  |
+| Cliente (Cavali)  | 01/12/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
