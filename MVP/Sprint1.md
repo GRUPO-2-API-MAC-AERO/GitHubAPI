@@ -27,8 +27,8 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Na qualidade de cliente, solicito a realização de estudos detalhados com base nos dados fornecidos, contemplando as entregas previstas, os resultados esperados e as tecnologias que estão planejadas para utilização no decorrer do projeto.         | Baixa       | 8H   |
 | US2 | Na qualidade de cliente, solicito a revisão do banco de dados de NCM por município, com o objetivo de assegurar a consistência, a completude das informações disponibilizadas.         | Alta      | 72H   |
-| US1 | Solicito, na qualidade de cliente, a entrega dos dados devidamente revisados e analisados, assegurando a precisão, consistência e integridade das informações apresentadas.         | Média       | 6H   |
-| US2 | Como cliente quero que seja feito a entrega da primeira estrutura do Dashboard já com os dados tratados inseridos.         | Alta      | 2H   |
+| US3 | Solicito, na qualidade de cliente, a entrega dos dados devidamente revisados e analisados, assegurando a precisão, consistência e integridade das informações apresentadas.         | Média       | 6H   |
+| US4 | Como cliente quero que seja feito a entrega da primeira estrutura do Dashboard já com os dados tratados inseridos.         | Alta      | 2H   |
 
 ---
 
