@@ -3,7 +3,7 @@
 ## 🎯 Objetivo do MVP
 > Mapear o ecossistema industrial de São José dos Campos e região:  
 - Suprir a necessidade de uma plataforma que torna os dados mais disponíveis.  
-- Ender quais situações ou agentes externos interferem no lucro.
+- Entender quais situações ou agentes externos interferem no lucro.
 - O cliente irá receber uma platadorma de dados de fácil compreensão. 
 
 ---
@@ -35,33 +35,37 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Dados tratados e filtrados]                 | Concluído|
-| 02     | [Adicionais mais produtor para exportação]   | Concluído|
+| 01     | Dados tratados e filtrados                 | Concluído|
+| 02     | Adicionais mais produtor para exportação   | Concluído|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário faça uma análise do ecossistema indústrial. 
+- O sistema deve registrar o valor FOB de importação e exportação.  
+- Métricas coletadas: foi visualidado que o valor de importação foi maior que o de exportação.
 
 ---
 
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Foi observado que o trabalho está bem estruturado, porém a falta de produtos mostrados na exportação tornou o valor discrepante em relação a importação.
+- DashBoard apesar da discrepância no valor esta bem intuitivo.
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Adicionar o SH4 dos produtos faltantes nos dados de exportação e melhorar os graficos do dashboard. 
+- Adicionar botões para filtrar os dados por município.  
+- Layout mais amigável para todos os usuários.  
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+<img width="825" height="956" alt="image" src="https://github.com/user-attachments/assets/031e3f31-2cb6-425b-9919-494e2251c5ed" />
+
+<img width="1236" height="919" alt="image" src="https://github.com/user-attachments/assets/5826348c-82c9-407b-acb0-efc07ef24c47" />
+
+![Gravando 2025-11-30 183850](https://github.com/user-attachments/assets/6225cd69-a08b-4de6-9af5-d10c3858f2b1)
+
+  
