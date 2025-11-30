@@ -69,5 +69,5 @@ Este projeto tem como objetivo demonstrar de forma sucinta os dados do comércio
 | 02                | 10/11/2025 | feito  | [MVP](MVP/Sprint2.md)  |
 | 03                | 24/11/2025 | feito  | [MVP](MVP/Sprint3.md)  |
 | Cliente (Cavali)  | 01/12/2025 | a fazer  | [MVP](MVP/Sprint3.md)  |
-| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](https://github.com/GRUPO-2-API-MAC-AERO/GitHubAPI.git)  |
 
