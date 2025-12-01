@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - MAC AERO
+# Aprendizado por Projeto Integrador (API) - MAC AERO
 
 Mapeamento do ecossistema industrial do setor aeronáutico. 
 
