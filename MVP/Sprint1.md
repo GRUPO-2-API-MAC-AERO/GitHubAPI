@@ -66,6 +66,7 @@
 
 <img width="1236" height="919" alt="image" src="https://github.com/user-attachments/assets/5826348c-82c9-407b-acb0-efc07ef24c47" />
 
-![Gravando 2025-11-30 183850](https://github.com/user-attachments/assets/6225cd69-a08b-4de6-9af5-d10c3858f2b1)
+https://github.com/user-attachments/assets/e7eea7a5-6931-4720-910b-7360e80e347a
+
 
   
