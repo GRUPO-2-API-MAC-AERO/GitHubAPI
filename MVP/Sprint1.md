@@ -48,7 +48,7 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
+- MVP foi testado pelo Prof. Rubens e pelo Prof. Marcus.  
 - Foi observado que o trabalho está bem estruturado, porém a falta de produtos mostrados na exportação tornou o valor discrepante em relação a importação.
 - DashBoard apesar da discrepância no valor esta bem intuitivo.
 
