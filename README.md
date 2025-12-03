@@ -71,3 +71,13 @@ Este projeto tem como objetivo demonstrar de forma clara os dados do comércio e
 | Cliente (Cavali)  | 01/12/2025 | feito  | [MVP](MVP/Sprint3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](https://github.com/GRUPO-2-API-MAC-AERO/GitHubAPI.git)  |
 
+
+
+
+
+# Prévia do DashBoard
+
+![Export](https://github.com/user-attachments/assets/5caa40ec-39a7-4147-9edf-7aed99b02e53)
+
+![Import](https://github.com/user-attachments/assets/62266f3d-3d41-4d34-993f-fc7122270dbe)
+
